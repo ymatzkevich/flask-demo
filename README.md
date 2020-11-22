@@ -8,7 +8,7 @@ Small web application that wraps the famous FizzBuzz problem into a nice REST AP
 
 ## Installation
 
-`pip install -f requirements.txt`
+`pip install -r requirements.txt`
 
 ## Run the app
 
