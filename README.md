@@ -28,3 +28,8 @@ export FLASK_APP=src/app.py
 export FLASK_ENV=production
 flask run
 ```
+
+### Unit tests
+```bash
+python -m unittest tests/test_fizzbuzz.py -v
+```
