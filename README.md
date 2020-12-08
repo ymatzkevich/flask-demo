@@ -23,7 +23,7 @@ flask run
 ```
 
 The development app should be available on port 5000:
-`curl locahost:5000/api/fizzbuzz/13`
+`curl localhost:5000/api/fizzbuzz/13`
 
 ### Production
 
