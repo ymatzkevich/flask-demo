@@ -35,7 +35,7 @@ flask run
 ```
 
 The development app should be available on port 5000:
-`curl locahost:5000/api/fizzbuzz/13`
+`curl locahlost:5000/api/fizzbuzz/13`
 
 ## Unit tests
 To run the small test suite, use:
